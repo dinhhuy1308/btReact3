@@ -1,0 +1,48 @@
+.card {
+    height: 450px;
+    border-radius: 50px;
+    border: 1px solid #000;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.card-img-top {
+    margin: auto;
+}
+
+.card-body {
+    padding: 40px 0;
+    
+}
+
+.cart {
+    text-align: right;
+    cursor: pointer;
+    color: #000;
+}
+
+.cart i {
+    font-size: 35px;
+}
+
+.cart span {
+    color: #fff;
+    position: relative;
+    font-size: 18px;
+    top: -17px;
+    right: -53px;
+    background-color: #000;
+    display: inline-block;
+    width: 30px;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.modal-dialog {
+    margin-left: 350px;
+    margin-top: 80px;
+}
+
+.modal-content {
+    width: 800px;
+}
